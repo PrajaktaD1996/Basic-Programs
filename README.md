@@ -14,16 +14,17 @@ The purpose of this repository is to:
 
 ## 🧠 Basics (1–10)
 
-1. Print even and odd numbers between 1–100  
-2. Reverse a number  
-3. Palindrome number check  
-4. Armstrong number  
-5. Fibonacci series  
-6. Factorial (iterative & recursive)  
-7. Prime number check  
-8. GCD and LCM  
-9. Count digits in a number  
-10. Sum of digits  
+1. Print even and odd numbers between 1–100
+   [odd_even_output](./odd_even.png)
+3. Reverse a number  
+4. Palindrome number check  
+5. Armstrong number  
+6. Fibonacci series  
+7. Factorial (iterative & recursive)  
+8. Prime number check  
+9. GCD and LCM  
+10. Count digits in a number  
+11. Sum of digits  
 
 ---
 
