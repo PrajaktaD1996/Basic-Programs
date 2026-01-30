@@ -16,17 +16,25 @@ The purpose of this repository is to:
 
 1. Print even and odd numbers between 1–100
    ![odd_even_output](./odd_even.png)
-3. Reverse a number
+2. Reverse a number
    ![reverse_output](./reverse.png) 
-5. Palindrome number check  
-6. Armstrong number  
-7. Fibonacci series  
-8. Factorial (iterative & recursive)  
-9. Prime number check  
-10. GCD and LCM  
-11. Count digits in a number  
-12. Sum of digits  
-
+3. Palindrome number check
+   ![palindrom_output](./palindrom.png)
+4. Armstrong number
+   ![armstrong_output](./armstrong.png)
+5. Fibonacci series
+   ![fibonacci_output](./fibonacci.png)
+6. Factorial (iterative & recursive)
+   ![factorial_output](./fact_rec.png)
+7. Prime number check
+   ![isprome_output](./isPrime.png)
+8. GCD and LCM
+   ![gcd_lcd_output](./lcm_gcd.png)  
+9. Count digits in a number
+   ![count_digit](./noofdigits.png)
+10. Sum of digits
+   ![sum_digits](./sumofdigit.png)
+   
 ---
 
 ## 📦 Arrays & Strings (11–20)
