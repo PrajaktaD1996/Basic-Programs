@@ -39,16 +39,21 @@ The purpose of this repository is to:
 
 ## 📦 Arrays & Strings (11–20)
 
-11. Find largest and smallest in array  
-12. Reverse an array  
-13. Second largest element  
-14. Remove duplicates from array  
-15. String length without `strlen()`  
-16. String palindrome  
-17. Count vowels and consonants  
-18. Anagram check  
-19. Frequency of characters  
-20. Substring search  
+11. Find largest and smallest in array
+    ![largest_smallest](./smallest_largest.png) 
+12. Reverse an array
+    ![reverse](./reverse_array.png) 
+13. Second largest element
+    ![second_largest](./second_largest.png) 
+14. Remove duplicates from array
+    ![remove_duplicates](./remove_duplicates.png)
+15. String length without `strlen()`
+    ![string_length](./count_string.png)
+21. String palindrome  
+22. Count vowels and consonants  
+23. Anagram check  
+24. Frequency of characters  
+25. Substring search  
 
 ---
 
