@@ -49,11 +49,16 @@ The purpose of this repository is to:
     ![remove_duplicates](./remove_duplicates.png)
 15. String length without `strlen()`
     ![string_length](./count_string.png)
-21. String palindrome  
-22. Count vowels and consonants  
-23. Anagram check  
-24. Frequency of characters  
-25. Substring search  
+16. String palindrome
+    ![string_palindrom](./palindrom_string.png)
+17. Count vowels and consonants
+    ![vovel_constant](./cnt_vowel_consonants.png)
+18. Anagram check
+    ![anagram_check](./string_anagram.png)
+19. Frequency of characters
+    ![freq_char](./freq_of_char.png) 
+20. Substring search
+    ![stringsearch](./substringsearch.png)
 
 ---
 
