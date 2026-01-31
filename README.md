@@ -15,7 +15,7 @@ The purpose of this repository is to:
 ## 🧠 Basics (1–10)
 
 1. Print even and odd numbers between 1–100
-   ![odd_even_output](.resources/images/odd_even.png)
+   ![odd_even_output](.Resources/images/odd_even.png)
 2. Reverse a number
    ![reverse_output](./reverse.png) 
 3. Palindrome number check
