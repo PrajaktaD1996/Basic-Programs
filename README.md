@@ -64,16 +64,19 @@ The purpose of this repository is to:
 
 ## 🧩 Pointers & Memory (21–30)
 
-21. Swap numbers using pointers  
-22. Dynamic memory allocation example  
-23. Implement `strlen()`  
-24. Implement `strcpy()`  
-25. Pointer to array example  
-26. Array of pointers  
-27. Structure using pointer  
-28. Union example  
-29. Memory leak demo + fix  
-30. Dangling pointer demo  
+21. Swap numbers using pointers
+    ![swap_nos](./swap_using_ptr.png)
+23. Dynamic memory allocation example
+    ![dynamic_prog](./dynamic_ptr.png)
+25. Implement `strlen()`
+    
+27. Implement `strcpy()`  
+28. Pointer to array example  
+29. Array of pointers  
+30. Structure using pointer  
+31. Union example  
+32. Memory leak demo + fix  
+33. Dangling pointer demo  
 
 ---
 
