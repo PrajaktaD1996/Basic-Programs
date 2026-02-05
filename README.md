@@ -15,59 +15,59 @@ The purpose of this repository is to:
 ## 🧠 Basics (1–10)
 
 1. Print even and odd numbers between 1–100
-   ![odd_even_output](./odd_even.png)
+   ![odd_even_output](Resources/images/odd_even.png)
 2. Reverse a number
-   ![reverse_output](./reverse.png) 
+   ![reverse_output](Resources/images/reverse.png) 
 3. Palindrome number check
-   ![palindrom_output](./palindrom.png)
+   ![palindrom_output](Resources/images/palindrom.png)
 4. Armstrong number
-   ![armstrong_output](./armstrong.png)
+   ![armstrong_output](Resources/images/armstrong.png)
 5. Fibonacci series
-   ![fibonacci_output](./fibonacci.png)
+   ![fibonacci_output](Resources/images/fibonacci.png)
 6. Factorial (iterative & recursive)
-   ![factorial_output](./fact_rec.png)
+   ![factorial_output](Resources/images/fact_rec.png)
 7. Prime number check
-   ![isprome_output](./isPrime.png)
+   ![isprome_output](Resources/images/isPrime.png)
 8. GCD and LCM
-   ![gcd_lcd_output](./lcm_gcd.png)  
+   ![gcd_lcd_output](Resources/images/lcm_gcd.png)  
 9. Count digits in a number
-   ![count_digit](./noofdigits.png)
+   ![count_digit](Resources/images/noofdigits.png)
 10. Sum of digits
-   ![sum_digits](./sumofdigit.png)
+   ![sum_digits](Resources/images/sumofdigit.png)
    
 ---
 
 ## 📦 Arrays & Strings (11–20)
 
 11. Find largest and smallest in array
-    ![largest_smallest](./smallest_largest.png) 
+    ![largest_smallest](Resources/images/smallest_largest.png) 
 12. Reverse an array
-    ![reverse](./reverse_array.png) 
+    ![reverse](Resources/images/reverse_array.png) 
 13. Second largest element
-    ![second_largest](./second_largest.png) 
+    ![second_largest](Resources/images/second_largest.png) 
 14. Remove duplicates from array
-    ![remove_duplicates](./remove_duplicates.png)
+    ![remove_duplicates](Resources/images/remove_duplicates.png)
 15. String length without `strlen()`
-    ![string_length](./count_string.png)
+    ![string_length](Resources/images/count_string.png)
 16. String palindrome
-    ![string_palindrom](./palindrom_string.png)
+    ![string_palindrom](Resources/images/palindrom_string.png)
 17. Count vowels and consonants
-    ![vovel_constant](./cnt_vowel_consonants.png)
+    ![vovel_constant](Resources/images/cnt_vowel_consonants.png)
 18. Anagram check
-    ![anagram_check](./string_anagram.png)
+    ![anagram_check](Resources/images/string_anagram.png)
 19. Frequency of characters
-    ![freq_char](./freq_of_char.png) 
+    ![freq_char](Resources/images/freq_of_char.png) 
 20. Substring search
-    ![stringsearch](./substringsearch.png)
+    ![stringsearch](Resources/images/substringsearch.png)
 
 ---
 
 ## 🧩 Pointers & Memory (21–30)
 
 21. Swap numbers using pointers
-    ![swap_nos](./swap_using_ptr.png)
+    ![swap_nos](Resources/images/swap_using_ptr.png)
 23. Dynamic memory allocation example
-    ![dynamic_prog](./dynamic_ptr.png)
+    ![dynamic_prog](Resources/images/dynamic_ptr.png)
 25. Implement `strlen()`
     
 27. Implement `strcpy()`  
