@@ -76,7 +76,8 @@ The purpose of this repository is to:
 30. Structure using pointer  
 31. Union example  
 32. Memory leak demo + fix  
-33. Dangling pointer demo  
+33. Dangling pointer demo
+     ![dangling_ptr](Resources/images/dynamic_ptr.png)  
 
 ---
 
@@ -85,13 +86,16 @@ The purpose of this repository is to:
 31. Tower of Hanoi  
 32. Binary to decimal  
 33. Set, clear, toggle bit  
-34. Count set bits  
-35. Check power of 2  
-36. Swap using XOR  
-37. Reverse string using recursion  
-38. Matrix addition  
-39. Matrix multiplication  
-40. Transpose of matrix  
+34. Count set bits
+     ![Count_set_bit](Resources/images/cnt_set_bit.png.png)   
+36. Check power of 2  
+37. Swap using XOR  
+38. Reverse string using recursion  
+39. Matrix addition
+     ![Matrix_add](Resources/images/matrix_add.png.png) 
+40. Matrix multiplication
+    ![Matrix_mul](Resources/images/mul_matrix.png.png) 
+42. Transpose of matrix  
 
 ---
 
@@ -100,13 +104,16 @@ The purpose of this repository is to:
 41. Student record system  
 42. Read/write from file  
 43. Menu-driven program  
-44. Implement stack using array  
-45. Implement queue  
-46. Implement circular queue  
-47. Implement linked list  
-48. Sorting (bubble, selection, quick)  
-49. Searching (binary, linear)  
-50. Mini project: Library management system  
+44. Implement stack using array
+     ![Matrix_mul](Resources/images/stack_implimentation_using_array.png.png) 
+46. Implement queue
+    ![Matrix_mul](Resources/images/queue_implimentation_using)array.png.png) 
+48. Implement circular queue
+    ![Matrix_mul](Resources/images/circular_que.png.png)
+50. Implement linked list  
+51. Sorting (bubble, selection, quick)  
+52. Searching (binary, linear)  
+53. Mini project: Library management system  
 
 ---
 
