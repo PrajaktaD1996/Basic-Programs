@@ -107,9 +107,7 @@ The purpose of this repository is to:
 44. Implement stack using array
      ![Matrix_mul](Resources/images/stack_implimentation_using_array.png.png) 
 46. Implement queue
-    ![Matrix_mul](Resources/images/queue_implimentation_using)array.png.png) 
 48. Implement circular queue
-    ![Matrix_mul](Resources/images/circular_que.png.png)
 50. Implement linked list  
 51. Sorting (bubble, selection, quick)  
 52. Searching (binary, linear)  
