@@ -92,9 +92,9 @@ The purpose of this repository is to:
 37. Swap using XOR  
 38. Reverse string using recursion  
 39. Matrix addition
-     ![Matrix_add](Resources/images/matrix_add.png.png) 
+    ![Matrix_mul](Resources/images/mul_matrix.png.png)
 40. Matrix multiplication
-    ![Matrix_mul](Resources/images/mul_matrix.png.png) 
+   ![Matrix_add](Resources/images/matrix_add.png.png) 
 42. Transpose of matrix  
 
 ---
