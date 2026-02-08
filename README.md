@@ -69,50 +69,73 @@ The purpose of this repository is to:
 23. Dynamic memory allocation example
     ![dynamic_prog](Resources/images/dynamic_ptr.png)
 25. Implement `strlen()`
+    ![str_len](Resources/images/str_len.png)
+27. Implement `strcpy()`
+    ![dynamic_prog](Resources/images/dynamic_ptr.png)  
+29. Pointer to array example
+    ![dynamic_prog](Resources/images/dynamic_ptr.png)  
+31. Array of pointers
+     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+33. Structure using pointer
+    ![dynamic_prog](Resources/images/dynamic_ptr.png) 
+35. Union example
+    ![dynamic_prog](Resources/images/dynamic_ptr.png) 
+37. Memory leak demo + fix
+     ![dynamic_prog](Resources/images/dynamic_ptr.png)
     
-27. Implement `strcpy()`  
-28. Pointer to array example  
-29. Array of pointers  
-30. Structure using pointer  
-31. Union example  
-32. Memory leak demo + fix  
-33. Dangling pointer demo
+39. Dangling pointer demo
      ![dangling_ptr](Resources/images/dynamic_ptr.png)  
 
 ---
 
 ## 🔁 Recursion & Bitwise (31–40)
 
-31. Tower of Hanoi  
-32. Binary to decimal  
-33. Set, clear, toggle bit  
-34. Count set bits
+31. Tower of Hanoi
+    ![dynamic_prog](Resources/images/dynamic_ptr.png)   
+33. Binary to decimal
+     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+35. Set, clear, toggle bit
+     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+37. Count set bits
+    
      ![Count_set_bit](Resources/images/cnt_set_bit.png.png)   
-36. Check power of 2  
-37. Swap using XOR  
-38. Reverse string using recursion  
-39. Matrix addition
- 
-40. Matrix multiplication
-  
-42. Transpose of matrix  
-
+39. Check power of 2
+     ![dynamic_prog](Resources/images/dynamic_ptr.png)  
+41. Swap using XOR
+     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+43. Reverse string using recursion
+     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+45. Matrix addition
+  ![dynamic_prog](Resources/images/dynamic_ptr.png)
+46. Matrix multiplication
+   ![dynamic_prog](Resources/images/dynamic_ptr.png)
+47. Transpose of matrix  
+ ![dynamic_prog](Resources/images/dynamic_ptr.png)
 ---
 
 ## 🗂 Files, Structures & Design (41–50)
 
-41. Student record system  
-42. Read/write from file  
-43. Menu-driven program  
-44. Implement stack using array
-     ![Matrix_mul](Resources/images/stack_implimentation_using_array.png.png) 
-46. Implement queue
-48. Implement circular queue
-50. Implement linked list  
-51. Sorting (bubble, selection, quick)  
-52. Searching (binary, linear)  
-53. Mini project: Library management system  
-
+41. Student record system
+     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+43. Read/write from file
+     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+45. Menu-driven program
+     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+47. Implement stack using array
+     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+      
+49. Implement queue
+     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+51. Implement circular queue
+     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+53. Implement linked list
+     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+55. Sorting (bubble, selection, quick)
+     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+57. Searching (binary, linear)
+     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+59. Mini project: Library management system  
+ ![dynamic_prog](Resources/images/dynamic_ptr.png)
 ---
 
 ## 🛠️ How to Use This Repository
