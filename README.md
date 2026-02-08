@@ -71,17 +71,17 @@ The purpose of this repository is to:
 25. Implement `strlen()`
     ![str_len](Resources/images/str_len.png)
 27. Implement `strcpy()`
-    ![dynamic_prog](Resources/images/dynamic_ptr.png)  
+    ![cpy_string_ptr](Resources/images/cpy_string_ptr.png)  
 29. Pointer to array example
-    ![dynamic_prog](Resources/images/dynamic_ptr.png)  
+    ![ptr_to_array](Resources/images/ptr_to_array.png)  
 31. Array of pointers
-     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+     ![arr_of_ptr](Resources/images/arr_of_ptr.png)
 33. Structure using pointer
-    ![dynamic_prog](Resources/images/dynamic_ptr.png) 
+    ![struct_us_ptr](Resources/images/struct_us_ptr.png) 
 35. Union example
-    ![dynamic_prog](Resources/images/dynamic_ptr.png) 
+    ![union](Resources/images/union.png) 
 37. Memory leak demo + fix
-     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+     ![memory_leaks](Resources/images/memory_leaks.png)
     
 39. Dangling pointer demo
      ![dangling_ptr](Resources/images/dynamic_ptr.png)  
@@ -91,51 +91,51 @@ The purpose of this repository is to:
 ## 🔁 Recursion & Bitwise (31–40)
 
 31. Tower of Hanoi
-    ![dynamic_prog](Resources/images/dynamic_ptr.png)   
+    ![tower_of_hanoi](Resources/images/tower_of_hanoi.png)   
 33. Binary to decimal
-     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+     ![bin_to_decimal](Resources/images/bin_to_decimal.png)
 35. Set, clear, toggle bit
-     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+     ![set_clear_toggle](Resources/images/set_clear_toggle.png)
 37. Count set bits
     
-     ![Count_set_bit](Resources/images/cnt_set_bit.png.png)   
+   
 39. Check power of 2
-     ![dynamic_prog](Resources/images/dynamic_ptr.png)  
+     ![check_pow_2](Resources/images/check_pow_2.png)  
 41. Swap using XOR
-     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+     ![swap_us_xor](Resources/images/swap_us_xor.png)
 43. Reverse string using recursion
-     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+     ![rev_rec](Resources/images/rev_rec.png)
 45. Matrix addition
-  ![dynamic_prog](Resources/images/dynamic_ptr.png)
+  ![mat_add](Resources/images/mat_add.png)
 46. Matrix multiplication
-   ![dynamic_prog](Resources/images/dynamic_ptr.png)
+ 
 47. Transpose of matrix  
- ![dynamic_prog](Resources/images/dynamic_ptr.png)
+ ![transpose](Resources/images/transpose.png)
 ---
 
 ## 🗂 Files, Structures & Design (41–50)
 
 41. Student record system
-     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+     ![stud_record_sys](Resources/images/stud_record_sys.png)
 43. Read/write from file
-     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+     ![read_file](Resources/images/read_file.png)
 45. Menu-driven program
-     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+     ![menu_driven_prog](Resources/images/menu_driven_prog.png)
 47. Implement stack using array
-     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+     ![stack_implimentation_using_array](Resources/images/stack_implimentation_using_array.png)
       
 49. Implement queue
-     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+     ![queue](Resources/images/queue.png)
 51. Implement circular queue
-     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+     ![cir_queue](Resources/images/cir_queue.png)
 53. Implement linked list
-     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+     ![lin_list](Resources/images/lin_list.png)
 55. Sorting (bubble, selection, quick)
-     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+     ![sorting](Resources/images/sorting.png)
 57. Searching (binary, linear)
-     ![dynamic_prog](Resources/images/dynamic_ptr.png)
+     ![lin_search](Resources/images/lin_search.png)
 59. Mini project: Library management system  
- ![dynamic_prog](Resources/images/dynamic_ptr.png)
+ ![Lib_Management_system](Resources/images/Lib_Management_system.png)
 ---
 
 ## 🛠️ How to Use This Repository
